@@ -1,0 +1,37 @@
+/* All elements */
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.clear {
+    clear: both;
+}
+
+header {
+    height: 100%;
+}
+
+header nav {
+    height: 100%
+    display: block;
+    float: left;
+    background-color: red;
+}
+
+header h1 {
+    display: block;
+    float: left;
+    height: 100%;
+    background-color: green;
+}
+
+/* Section */
+section {
+    background-color: lightgrey;
+}
+
+/* Footer */
+footer {
+    background-color: darkcyan;
+}
